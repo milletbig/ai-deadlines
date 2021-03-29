@@ -24,7 +24,7 @@
   sub:
     - PE
     - MC
-  note: '<b>NOTE</b>: Digest Acceptance Notice on May 1, 2021.'
+  note: '<b>NOTE</b>: Digest Submission Deadline on January 15, 2021 and Acceptance Notice on May 1, 2021.'
 
 - title: IECON
   year: 2021
@@ -61,6 +61,7 @@
   sub:
     - PE
     - MC
+  note: '<b>NOTE</b>: Digest Submission Deadline on December 15, 2020.'
 
 - title: ICEMS
   year: 2021
@@ -72,7 +73,7 @@
   date: October 31 – November 3, 2021
   place: Gyeongju, Korea
   sub: MC
-  note: '<b>NOTE</b>: Digest Acceptance Notice on May 31, 2021.'
+  note: '<b>NOTE</b>: Digest Submission Deadline on March 31, 2021 and Acceptance Notice on May 31, 2021.'
   
 - title: PEDS
   year: 2021
