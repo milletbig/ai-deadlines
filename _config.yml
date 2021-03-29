@@ -1,15 +1,16 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: PE/MC Conference Deadlines # (Maintained by @hi_shawnn)
+# email: cledewang@xtu.edu.cn
+description: Countdowns to PE/MC conference deadlines
+author: Shawn
 
-domain: "aideadlin.es"
+domain: "pemcdeadlines.ml"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+twitter_inspirater_username: abhshkdz
+twitter_username: hi_shawnn
+twitter_hashtag: Power Electronics
+github_username: milletbig
+github_repo: pemc-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
