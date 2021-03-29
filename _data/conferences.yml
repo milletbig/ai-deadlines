@@ -1,5 +1,17 @@
 ---
 
+- title: ECCE Europe
+  year: 2021
+  id: EPE’21 ECCE Europe
+  link: http://www.epe2021.com/
+  deadline: '2020-12-23 23:59:59'
+  timezone: Etc/GMT-1
+  date: September 06 - 10, 2021
+  place: Ghent, Belgium
+  sub:
+    - PE
+    - MC
+
 - title: IROS
   hindex: 58
   year: 2021
