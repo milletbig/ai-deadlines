@@ -11,3 +11,7 @@
   sub: SP
 - name: Data Mining
   sub: DM
+- name: Power Electronics
+  sub: PE
+- name: Motor Control
+  sub: MC
