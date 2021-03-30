@@ -5,7 +5,7 @@
   id: EPE’21-ECCE-Europe
   link: http://www.epe2021.com/
   deadline: '2020-12-23 23:59:59'
-  timezone: Etc/GMT-1
+  timezone: UTC
   date: September 06 - 10, 2021
   place: Ghent, Belgium
   sub:
@@ -16,22 +16,22 @@
   year: 2021
   id: ECCE2021
   link: http://www.ieee-ecce.org/2021/
-  abstract_deadline: '2021-01-15 23:59:59'
+  abstract_deadline: '2021-02-07 23:59:59'
   deadline: '2021-06-30 23:59:59'
-  timezone: Etc/GMT+4
+  timezone: UTC
   date: October 10 - 14, 2021
   place: Vancouver, Canada
   sub:
     - PE
     - MC
-  note: '<b>NOTE</b>: Digest Submission Deadline on January 15, 2021 and Acceptance Notice on May 1, 2021.'
+  note: '<b>NOTE</b>: Digest Submission Deadline on February 7, 2021 and Acceptance Notice on May 1, 2021.'
 
 - title: IECON
   year: 2021
   id: IECON2021
   link: https://ieeeiecon.org/
   deadline: '2021-06-25 23:59:59'
-  timezone: Etc/GMT+4
+  timezone: UTC
   date: October 13 - 16, 2021
   place: Toronto, Canada
   sub:
@@ -44,7 +44,7 @@
   id: IEMDC2021
   link: https://iemdc-2021.com/
   deadline: '2020-12-27 23:59:59'
-  timezone: Etc/GMT+4
+  timezone: UTC
   date: May 17 - 20, 2021
   place: Connecticut, USA
   sub: MC
@@ -69,7 +69,7 @@
   link: https://www.icems2021.com/
   deadline: '2021-07-31 23:59:59'
   abstract_deadline: '2021-03-31 23:59:59'
-  timezone: Etc/GMT-9
+  timezone: UTC
   date: October 31 – November 3, 2021
   place: Gyeongju, Korea
   sub: MC
@@ -80,7 +80,7 @@
   id: PEDS2021
   link: http://www.ieee-peds.org
   deadline: '2020-10-15 23:59:59'
-  timezone: Etc/GMT+4
+  timezone: UTC
   date: June 27 – 30, 2021
   place: Montreal，Canada
   sub: PE
@@ -91,7 +91,7 @@
   id: APPEEC2021
   link: https://ieee-appeec.org/
   deadline: '2021-04-15 23:59:59'
-  timezone: Etc/GMT-5:30
+  timezone: UTC
   date: November 21 – 23, 2021
   place: Trivandrum, Kerala
   sub: PE
@@ -102,7 +102,7 @@
   id: IAEERO2021
   link: http://www.aeero2021.org/
   deadline: '2021-04-30 23:59:59'
-  timezone: Etc/GMT-8
+  timezone: UTC
   date: October 15 – 17, 2021
   place: Beijing, China
   sub: MC
