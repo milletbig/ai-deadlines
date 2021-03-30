@@ -31,7 +31,7 @@
   id: IECON2021
   link: https://ieeeiecon.org/
   deadline: '2021-06-25 23:59:59'
-  timezone: UTC+8
+  timezone: UTC+20
   date: October 13 - 16, 2021
   place: Toronto, Canada
   sub:
@@ -102,7 +102,7 @@
   id: IAEERO2021
   link: http://www.aeero2021.org/
   deadline: '2021-04-30 23:59:59'
-  timezone: UTC-8
+  timezone: UTC+20
   date: October 15 – 17, 2021
   place: Beijing, China
   sub: MC
