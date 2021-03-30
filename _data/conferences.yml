@@ -91,7 +91,7 @@
   id: APPEEC2021
   link: https://ieee-appeec.org/
   deadline: '2021-04-15 23:59:59'
-  timezone: UTC-5:30
+  timezone: UTC
   date: November 21 – 23, 2021
   place: Trivandrum, Kerala
   sub: PE
@@ -102,7 +102,7 @@
   id: IAEERO2021
   link: http://www.aeero2021.org/
   deadline: '2021-04-30 23:59:59'
-  timezone: UTC
+  timezone: UTC-8
   date: October 15 – 17, 2021
   place: Beijing, China
   sub: MC
