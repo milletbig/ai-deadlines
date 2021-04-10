@@ -120,3 +120,14 @@
     - MC
     - PE
   note: '<b>NOTE</b>: Notification of acceptance on July 31, 2021.'
+  
+- title: CPSSC
+  year: 2021
+  id: CPSSC2021
+  link: http://meeting.cpss.org.cn/
+  deadline: '2021-06-30 23:59:59'
+  timezone: UTC-8
+  date: November 12 – 15, 2021
+  place: Shanghai, China
+  sub: PE
+  note: '<b>NOTE</b>: Notification of acceptance on August 16, 2021.'
