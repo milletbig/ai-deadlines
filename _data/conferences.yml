@@ -3,6 +3,19 @@
   year: 2022
   id: IPEC-ECCE-Asia-2022
   link: https://www.ipec2022.org/
+  deadline: '2021-10-12 23:59:59'
+  timezone: UTC-9
+  date: May 15 - 19, 2022
+  place: HIMEJI, Japan
+  sub:
+    - PE
+    - MC
+  note: '<b>NOTE</b>: Extended Summary Submission Deadline.'
+  
+- title: IPEC-ECCE-Asia
+  year: 2022
+  id: IPEC-ECCE-Asia-2022
+  link: https://www.ipec2022.org/
   deadline: '2022-03-04 23:59:59'
   abstract_deadline: '2021-10-12 23:59:59'
   timezone: UTC-9
