@@ -2,7 +2,7 @@
 
 Countdown timers to keep track of a bunch of PE/MC conference deadlines.
 
-对于有摘要提交截止日期的会议，会设置两个列表，一个针对摘要截止日期，一个针对全文截止日期。
+对于有摘要提交截止日期的会议，会先设置为摘要截止日期，该时间过后再设置全文提交截止日期。
 
 ## Contributing
 
