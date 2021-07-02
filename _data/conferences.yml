@@ -56,7 +56,7 @@
   year: 2021
   id: EPE’21-ECCE-Europe
   link: http://www.epe2021.com/
-  deadline: '2020-12-23 23:59:59'
+  deadline: '2021-07-04 23:59:59'
   timezone: UTC-2
   date: September 06 - 10, 2021
   place: Ghent, Belgium
@@ -82,14 +82,13 @@
   year: 2021
   id: IECON2021
   link: https://ieeeiecon.org/
-  deadline: '2021-06-25 23:59:59'
+  deadline: '2021-07-31 23:59:59'
   timezone: UTC+8
   date: October 13 - 16, 2021
   place: Toronto, Canada
   sub:
     - PE
     - MC
-  note: '<b>NOTE</b>: Acceptance Notification on July 30, 2021.'
 
 - title: IEMDC
   year: 2021
@@ -125,7 +124,7 @@
   date: October 31 – November 3, 2021
   place: Gyeongju, Korea
   sub: MC
-  note: '<b>NOTE</b>: Digest Submission Deadline has been extended to May 31, 2021 and Acceptance Notice on June 30, 2021.'
+  note: '<b>NOTE</b>: Digest Acceptance Notice on June 30, 2021.'
   
 - title: PEDS
   year: 2021
@@ -142,7 +141,7 @@
   year: 2021
   id: APPEEC2021
   link: https://ieee-appeec.org/
-  deadline: '2021-05-15 23:59:59'
+  deadline: '2021-06-30 23:59:59'
   timezone: UTC-5
   date: November 21 – 23, 2021
   place: Trivandrum, Kerala
@@ -177,7 +176,7 @@
   year: 2021
   id: CPSSC2021
   link: http://meeting.cpss.org.cn/
-  deadline: '2021-06-30 23:59:59'
+  deadline: '2021-07-20 23:59:59'
   timezone: UTC-8
   date: November 12 – 15, 2021
   place: Shanghai, China
