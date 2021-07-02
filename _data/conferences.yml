@@ -5,7 +5,7 @@
   link: http://www.apec-conf.org/
   deadline: '2022-07-15 23:59:59'
   abstract_deadline: '2022-07-15 23:59:59'
-  timezone: UTC+4
+  timezone: UTC-4
   date: March 19 - 23, 2023
   place: Orlando, USA
   sub:
@@ -18,7 +18,7 @@
   link: https://www.ieee-ecce.org/2022/
   deadline: '2022-01-15 23:59:59'
   abstract_deadline: '2022-01-15 23:59:59'
-  timezone: UTC+4
+  timezone: UTC-4
   date: October 9 - 13, 2022
   place: Detroit, USA
   sub:
@@ -31,7 +31,7 @@
   link: http://www.epe2022.com/
   deadline: '2021-11-18 23:59:59'
   abstract_deadline: '2021-11-18 23:59:59'
-  timezone: UTC-2
+  timezone: UTC+2
   date: September 5 - 9, 2022
   place: Hanover, Germany
   sub:
@@ -44,7 +44,7 @@
   link: https://www.ipec2022.org/
   deadline: '2021-10-12 23:59:59'
   abstract_deadline: '2021-10-12 23:59:59'
-  timezone: UTC-9
+  timezone: UTC+9
   date: May 15 - 19, 2022
   place: HIMEJI, Japan
   sub:
@@ -57,7 +57,7 @@
   id: EPE’21-ECCE-Europe
   link: http://www.epe2021.com/
   deadline: '2021-07-04 23:59:59'
-  timezone: UTC-2
+  timezone: UTC+2
   date: September 06 - 10, 2021
   place: Ghent, Belgium
   sub:
@@ -70,7 +70,7 @@
   link: http://www.ieee-ecce.org/2021/
   abstract_deadline: '2021-02-07 23:59:59'
   deadline: '2021-06-30 23:59:59'
-  timezone: UTC+8
+  timezone: UTC-8
   date: October 10 - 14, 2021
   place: Vancouver, Canada
   sub:
@@ -83,7 +83,7 @@
   id: IECON2021
   link: https://ieeeiecon.org/
   deadline: '2021-07-31 23:59:59'
-  timezone: UTC+8
+  timezone: UTC-8
   date: October 13 - 16, 2021
   place: Toronto, Canada
   sub:
@@ -95,7 +95,7 @@
   id: IEMDC2021
   link: https://iemdc-2021.com/
   deadline: '2021-04-04 23:59:59'
-  timezone: UTC+7
+  timezone: UTC-7
   date: May 17 - 20, 2021
   place: Connecticut, USA
   sub: MC
@@ -120,7 +120,7 @@
   link: https://www.icems2021.com/
   deadline: '2021-08-31 23:59:59'
   abstract_deadline: '2021-05-31 23:59:59'
-  timezone: UTC-9
+  timezone: UTC+9
   date: October 31 – November 3, 2021
   place: Gyeongju, Korea
   sub: MC
@@ -131,7 +131,7 @@
   id: PEDS2021
   link: http://www.ieee-peds.org
   deadline: '2020-10-15 23:59:59'
-  timezone: UTC+8
+  timezone: UTC-8
   date: June 27 – 30, 2021
   place: Montreal，Canada
   sub: PE
@@ -142,7 +142,7 @@
   id: APPEEC2021
   link: https://ieee-appeec.org/
   deadline: '2021-06-30 23:59:59'
-  timezone: UTC-5
+  timezone: UTC+5
   date: November 21 – 23, 2021
   place: Trivandrum, Kerala
   sub: PE
@@ -153,7 +153,7 @@
   id: IAEERO2021
   link: http://www.aeero2021.org/
   deadline: '2021-05-31 23:59:59'
-  timezone: UTC-8
+  timezone: UTC+8
   date: October 15 – 17, 2021
   place: Beijing, China
   sub: MC
@@ -164,7 +164,7 @@
   id: ACCES2021
   link: http://www.acces.org.cn/
   deadline: '2021-06-30 23:59:59'
-  timezone: UTC-8
+  timezone: UTC+8
   date: September 24 – 26, 2021
   place: Beijing, China
   sub: 
@@ -177,7 +177,7 @@
   id: CPSSC2021
   link: http://meeting.cpss.org.cn/
   deadline: '2021-07-20 23:59:59'
-  timezone: UTC-8
+  timezone: UTC+8
   date: November 12 – 15, 2021
   place: Shanghai, China
   sub: PE
